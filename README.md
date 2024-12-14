@@ -3,17 +3,17 @@
 Une application complète pour la gestion des stocks, des ventes et des ordonnances d'une pharmacie. Ce projet permet de suivre les médicaments, de gérer les clients, et de générer des rapports d'activités.
 # EQUIPE DE DEVELOPPEMENT :
 
-Chef de Projet : Feghoul Chaimaa
+## Chef de Projet : Feghoul Chaimaa
 Planifier les étapes du projet.
 Coordonner les efforts de l'équipe.
 Communiquer avec les parties prenantes.
 
-Développeur Front-end : Houcini Ania & Feghoul Chaimaa 
+## Développeur Front-end : Houcini Ania & Feghoul Chaimaa 
 Mettre en œuvre l'interface utilisateur.
 Travailler avec les technologies web (HTML, CSS).
 Assurer la compatibilité multiplateform.
 
-Développeur Back-end : Medjahdi Kautar & Smain Manel
+## Développeur Back-end : Medjahdi Kautar & Smain Manel
 Gérer la logique métier et les bases de données.
 Développement Back-end avec le Framework Laravel
 
