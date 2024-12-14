@@ -1,6 +1,21 @@
 # Gestion de Pharmacie
 
 Une application complète pour la gestion des stocks, des ventes et des ordonnances d'une pharmacie. Ce projet permet de suivre les médicaments, de gérer les clients, et de générer des rapports d'activités.
+# EQUIPE DE DEVELOPPEMENT :
+
+Chef de Projet : Feghoul Chaimaa
+Planifier les étapes du projet.
+Coordonner les efforts de l'équipe.
+Communiquer avec les parties prenantes.
+
+Développeur Front-end : Houcini Ania & Feghoul Chaimaa 
+Mettre en œuvre l'interface utilisateur.
+Travailler avec les technologies web (HTML, CSS).
+Assurer la compatibilité multiplateform.
+
+Développeur Back-end : Medjahdi Kautar & Smain Manel
+Gérer la logique métier et les bases de données.
+Développement Back-end avec le Framework Laravel
 
 ## Fonctionnalités
 
@@ -13,19 +28,6 @@ Une application complète pour la gestion des stocks, des ventes et des ordonnan
   - Enregistrement des ventes quotidiennes.
   - Gestion des ordonnances avec liaison client et médecin.
   - Calcul automatique des prix avec TVA.
-
-- **Gestion des utilisateurs :**
-  - Authentification et rôles (administrateur, pharmacien, etc.).
-  - Suivi des activités par utilisateur.
-
-- **Rapports et analyses :**
-  - Rapports de ventes par période.
-  - Analyse des stocks (ruptures, produits à faible rotation, etc.).
-  - Génération de rapports exportables (PDF, Excel).
-
-- **Notifications et alertes :**
-  - Alerte pour les médicaments expirés.
-  - Notifications pour les réapprovisionnements nécessaires.
 
 ## Technologies Utilisées
 
