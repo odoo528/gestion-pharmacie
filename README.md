@@ -8,12 +8,12 @@ Planifier les étapes du projet.
 Coordonner les efforts de l'équipe.
 Communiquer avec les parties prenantes.
 
-## Développeur Front-end : Houcini Ania & Feghoul Chaimaa 
+## Développeur Front-end : Smain Manel & Hocini Ania
 Mettre en œuvre l'interface utilisateur.
 Travailler avec les technologies web (HTML, CSS).
 Assurer la compatibilité multiplateform.
 
-## Développeur Back-end : Medjahdi Kautar & Smain Manel
+## Développeur Back-end : Medjahdi Kautar & Feghoul chaima
 Gérer la logique métier et les bases de données.
 Développement Back-end avec le Framework Laravel
 
