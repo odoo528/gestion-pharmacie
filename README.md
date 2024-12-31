@@ -31,8 +31,8 @@ Développement Back-end avec le Framework Laravel
 
 ## Technologies Utilisées
 
-- **Frontend :**  HTML,CSS
-- **Backend :** PHP,PYTHON
+- **Frontend :**  HTML,CSS,javascript
+- **Backend :** PYTHON
 - **Base de données :** MySQL / PostgreSQL / MongoDB
 - **Autres :** Bootstrap, Tailwind CSS pour l'interface utilisateur.
 
