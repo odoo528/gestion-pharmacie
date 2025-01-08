@@ -47,7 +47,7 @@ Développement Back-end avec le Framework Laravel
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/odoo528/gestion-pharmacie/edit/main
-   cd gestion-de-pharmacie
+   cd gestion-pharmacie
    
 Ce fichier fournit un guide clair pour installer, utiliser et contribuer au projet. N'hésitez pas à l'adapter en fonction des spécificités de votre projet !
 
